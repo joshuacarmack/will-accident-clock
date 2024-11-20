@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Days Since Will's Last Networking Accident</title>
+    <title>Will Clock</title>
     <style>
         body {
             display: flex;
